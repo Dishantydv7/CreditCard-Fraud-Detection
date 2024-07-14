@@ -1,0 +1,1 @@
+The Credit Card Fraud Detection Problem involves modeling historical credit card transactions to identify patterns of fraudulent activity. The system aims to detect all fraudulent transactions while minimizing false positives for new transactions.
